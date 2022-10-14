@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        title={'PT ARGO TAMA KARYA'}
+        subtitle={'Distributor Berbagai Jenis Packaging'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
@@ -116,7 +116,7 @@ const IndexPage = () => {
       <div className={styles.sustainableContainer}>
         <Hero
           image={'/banner3.png'}
-          title={'We are Sustainable'}
+          title={'PT ARGO TAMA KARYA'}
           subtitle={
             'From caring for our land to supporting our people, discover the steps we’re taking to do more for the world around us.'
           }
